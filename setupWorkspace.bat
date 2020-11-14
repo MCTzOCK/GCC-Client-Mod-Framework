@@ -23,6 +23,6 @@ goto finish
 
 :finish
 echo.
-echo Finished! You can now create your mod and compile it whit the recompile.bat! You find the java files in the workspace-%rnd%/src folder!
+echo Finished! You can now create your mod and compile it whit the recompile.bat! You find the java files in the workspace-%rnd%/src folder! Wiki: comming soon [TM]
 echo.
 pause > nul
